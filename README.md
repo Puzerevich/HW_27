@@ -27,13 +27,9 @@
 =============
 
 Num | Name
-
 4 | Alen
-
 27 | Yoda
-
 33 | Obi-van
-
 34 | John Snow
 
 1) Підключити логування
