@@ -1,0 +1,12 @@
+2023-04-19 23:07:12,093 [main] INFO  order.CoffeeOrderBoard - Added work method.
+2023-04-19 23:07:12,112 [main] INFO  order.CoffeeOrderBoard - Create order: 1 | Kostiantyn [Coffee, Burger, Cake]
+2023-04-19 23:07:12,113 [main] INFO  order.CoffeeOrderBoard - Added work method.
+2023-04-19 23:07:12,114 [main] ERROR order.CoffeeOrderBoard - Exception: Customer name error null
+2023-04-19 23:07:12,115 [main] INFO  order.CoffeeOrderBoard - Added work method.
+2023-04-19 23:07:12,115 [main] INFO  order.CoffeeOrderBoard - Create order: 2 | Anna [Apple juice, Cake]
+2023-04-19 23:07:12,116 [main] INFO  order.CoffeeOrderBoard - Work of the deliver method.
+2023-04-19 23:07:12,116 [main] INFO  order.CoffeeOrderBoard - Deliver order 1 | Kostiantyn
+2023-04-19 23:07:12,117 [main] INFO  order.CoffeeOrderBoard - The work of the method deliver by id Order
+2023-04-19 23:07:12,117 [main] INFO  order.CoffeeOrderBoard - Deliver order 2 | Anna
+2023-04-19 23:07:12,117 [main] INFO  order.CoffeeOrderBoard - The work of the method deliver by id Order
+2023-04-19 23:07:12,117 [main] INFO  order.CoffeeOrderBoard - order list is empty
